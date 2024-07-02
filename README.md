@@ -20,15 +20,10 @@
 - **Gestión de Infraestructura**: Manejo de despliegues, administración de servidores y servicios en la nube.
 - **Proyectos Full-Stack**: Desarrollo de aplicaciones full-stack utilizando el stack PERN, desde el diseño del esquema de la base de datos hasta el despliegue de la aplicación.
 
-## 🌱 Actualmente Estoy Aprendiendo
-
-- **Spring Boot**: Adentrándome en el mundo del desarrollo con Spring Boot para mejorar mis habilidades en backend.
-- **Herramientas de DevOps**: Explorando herramientas y prácticas de DevOps para optimizar el ciclo de vida del desarrollo de software.
-
 ## 📫 Contáctame
 
 - **Email**: miller7villa@.com
-- **LinkedIn**: [[tu perfil de LinkedIn](https://www.linkedin.com/in/miller-villa/)]
+- **LinkedIn**: [[Mi perfil de LinkedIn](https://www.linkedin.com/in/miller-villa/)]
 ---
 
 ¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevas oportunidades y colaboraciones interesantes.
