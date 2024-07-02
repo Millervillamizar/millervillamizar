@@ -24,6 +24,6 @@
 
 - **Email**: miller7villa@gmail.com
 - **LinkedIn**: [[Mi perfil de LinkedIn](https://www.linkedin.com/in/miller-villa/)]
----
+- **Portafolio**: [[Portafolio](https://portafolio-mauve-delta.vercel.app/)]
 
 ¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevas oportunidades y colaboraciones interesantes.
