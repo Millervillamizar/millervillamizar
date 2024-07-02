@@ -22,7 +22,7 @@
 
 ## 📫 Contáctame
 
-- **Email**: miller7villa@.com
+- **Email**: miller7villa@gmail.com
 - **LinkedIn**: [[Mi perfil de LinkedIn](https://www.linkedin.com/in/miller-villa/)]
 ---
 
