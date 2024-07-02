@@ -26,4 +26,4 @@
 - **LinkedIn**: [[👉📑](https://www.linkedin.com/in/miller-villa/)]
 - **Portafolio**: [[👉💻](https://portafolio-mauve-delta.vercel.app/)]
 
-¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevas oportunidades y colaboraciones interesantes.
+¡Gracias por visitar mi perfil! Siempre estoy dispuesto a explorar nuevas oportunidades y colaboraciones interesantes.
