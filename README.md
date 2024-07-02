@@ -28,7 +28,7 @@
 ## 📫 Contáctame
 
 - **Email**: miller7villa@.com
-- **LinkedIn**: [tu perfil de LinkedIn]([https://www.linkedin.com/in/miller-villa/])
+- **LinkedIn**: [[tu perfil de LinkedIn](https://www.linkedin.com/in/miller-villa/)]
 ---
 
 ¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevas oportunidades y colaboraciones interesantes.
