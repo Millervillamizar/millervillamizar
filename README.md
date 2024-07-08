@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web con experiencia en el stack PERN (PostgreSQL, Express, React, Node.js). Tengo una sólida experiencia en soporte de aplicaciones, infraestructura, soporte funcional y técnico, lo que me proporciona una comprensión integral de las necesidades tecnológicas y la capacidad de abordar problemas de manera efectiva. Actualmente, estoy en búsqueda de nuevas oportunidades para aplicar y expandir mis habilidades en el desarrollo web.
+¡Bienvenido a mi perfil de GitHub! Como desarrollador web con experiencia en el stack PERN (PostgreSQL, Express, React, Node.js), poseo una sólida trayectoria en soporte de aplicaciones, infraestructura, y soporte funcional y técnico. Esta experiencia me ha proporcionado una comprensión integral de las necesidades tecnológicas y la capacidad de abordar problemas de manera efectiva. Actualmente, estoy explorando nuevas oportunidades para aplicar y expandir mis habilidades en el desarrollo web.
 
 ## 🛠️ Tecnologías y Herramientas
 
