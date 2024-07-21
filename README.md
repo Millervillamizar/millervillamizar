@@ -31,6 +31,8 @@
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrum&logoColor=white)
 
 ## 💼 Experiencia
@@ -48,4 +50,3 @@
 - **Portafolio**: [👉💻](https://portafolio-mauve-delta.vercel.app/)
 
 ¡Gracias por visitar mi perfil! Siempre estoy dispuesto a explorar nuevas oportunidades y colaboraciones interesantes.
-
