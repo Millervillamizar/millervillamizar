@@ -33,6 +33,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrum&logoColor=white)
 
 ## 💼 Experiencia
